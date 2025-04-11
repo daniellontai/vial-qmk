@@ -6,4 +6,4 @@ ENCODER_MAP_ENABLE = yes
 VPATH += keyboards/keychron/common
 SRC += keychron_common.c
 
-DEBOUNCE_TYPE = sym_eager_pk;
+DEBOUNCE_TYPE = sym_eager_pk
