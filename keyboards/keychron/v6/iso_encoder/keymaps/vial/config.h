@@ -7,4 +7,4 @@
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 2 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 13 }
 
-#define DEBOUNCE 10
+#define DEBOUNCE 40
